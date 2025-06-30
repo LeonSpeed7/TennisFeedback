@@ -211,7 +211,13 @@ else:
 # """String representation for debugging."""
        # return f"OriginalImg(x={self.x:.6f}, y={self.y:.6f}, z={self.z:.6f}, confidence={self.confidence:.6f})"
 
-# commands to execute in terminal- 
+"""commands to run the code in terminal"""
 
 #  cd /Users/rishabh/TennisFeedback/TennisFeedback/code/
 #  python3 InterpretJson.py
+
+"""github commands to push the code to the repository"""
+
+# git add .
+# git commit -m "enter commit message here"
+# git push origin main
