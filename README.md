@@ -10,3 +10,4 @@ _This text is italicized_
 ***All this text is important***	
 This is an <ins>underlined</ins> text
 `rgb(9, 105, 218)`
+This site was built using [GitHub Pages](https://pages.github.com/)
